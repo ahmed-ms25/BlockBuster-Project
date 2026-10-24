@@ -1,3 +1,5 @@
+**[Play the game directly in your browser here!](https://ahmed-ms25.github.io/BlockBuster-Project)**
+
 # POP Raylib starter
 
 Simple starter application for POP C assignment.
