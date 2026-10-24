@@ -1,4 +1,4 @@
-**[Play the game directly in your browser here!](https://ahmed-ms25.github.io/BlockBuster-Project)**
+**[Play the game directly in your browser here!](https://ahmed-ms25.github.io/BlockBuster-Project/out/)**
 
 # POP Raylib starter
 
